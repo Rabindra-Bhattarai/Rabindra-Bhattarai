@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabindrabhattarai" alt="rabindrabhattarai" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yudip_upreti" target="blank"><img src="https://img.shields.io/twitter/follow/yudip_upreti?logo=twitter&style=for-the-badge" alt="yudip_upreti" /></a> </p>
 
-- 🔭 I’m currently working on [Yuwadevs](https://play.google.com/store/apps/dev?id=8621787848835121707)
 
-- 🌱 I’m currently learning **Tensor Flow.**
+- 🔭 I’m currently working on [Myself](https://play.google.com/store/apps/dev?id=8621787848835121707)
+
+- 🌱 I’m currently learning **java Script.**
 
 - 👨‍💻 All of my projects are available at [https://rabindrabhattarai.com.np/](https://rabindrabhattarai.com.np/)
 
@@ -22,12 +22,11 @@
 
 - 📄 Know about my experiences [https://rabindrabhattarai.com.np/yu-cv.pdf](https://rabindrabhattarai.com.np/yu-cv.pdf)
 
-- ⚡ Fun fact **The popular mobile game "Angry Birds" was inspired by a sketch of birds without wings by the game's lead designer.**
+- ⚡ Fun fact **you know that the first computer bug wasn't actually a software glitch, but a real, live insect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yudip_upreti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yudip_upreti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yudip-upreti-b41309210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yudip-upreti-b41309210" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rabindrabhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabindrabhattarai" height="30" width="40" /></a>
 </p>
 
