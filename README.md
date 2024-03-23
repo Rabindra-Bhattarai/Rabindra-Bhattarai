@@ -10,13 +10,9 @@
 
 - 🔭 I’m currently working on [Myself](https://play.google.com/store/apps/dev?id=8621787848835121707)
 
-- 🌱 I’m currently learning **java Script.**
+- 🌱 I’m currently learning **java.**
 
 - 👨‍💻 All of my projects are available at [https://rabindrabhattarai.com.np/](https://rabindrabhattarai.com.np/)
-
-- 📝 I regularly write articles on [https://onionhero.blogspot.com/](https://onionhero.blogspot.com/)
-
-- 💬 Ask me about **Unity 2D/3D, C#, C++.**
 
 - 📫 How to reach me **rabindrabhattarai01@gmail.com**
 
