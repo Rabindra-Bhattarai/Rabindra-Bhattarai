@@ -1,4 +1,6 @@
-<h2 align="center"> 👾, I'm Rabindra Bhattarai.</h2>
+<h1 align="center"> Welcome coders 👾</h1>
+<h2 align="center">This is Rabindra </h2>
+<h2 align="center"> Call Sign **Raw** </h2>
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | Event club | 🎸🏀 Guitar & Basketball Fanatic</h3>
 
 <img align="right" alt="Coder Mode" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
