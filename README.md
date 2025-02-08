@@ -44,8 +44,7 @@
 </p>
 
 ---
-<h3 align="center">💰 Support Local Businesses:</h3> <p align="center"> <a href="https://hamrohealth.com" target="_blank"> <img src="https://www.hamrohealth.com/logo.png" alt="Hamro Health" height="50" width="210" /> </a> </p>
-
+<h3 align="center">🎉 Support Softwarica's Event & Sports Club:</h3> <p align="center"> <a href="https://www.instagram.com/softwaricaeventsports" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Event & Sports Club" height="50" width="210" /> </a> <a href="https://www.softwarica.edu.np" target="_blank"> <img src="https://www.softwarica.edu.np/images/logo.png" alt="Softwarica" height="50" width="210" /> </a> </p>
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
