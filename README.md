@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome coders 👾</h1>
----
+
 <h3 align="center">This is Rabindra.  Call Sign Raw </h3>
----
+
 <h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | Event club | 🎸🏀 Guitar & Basketball Fanatic</h3>
 
 <img align="right" alt="Coder Mode" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -44,8 +44,7 @@
 </p>
 
 ---
-
-<h3 align="center">💰 Support Me:</h3> <p align="center"> <a href="https://hamrohealth.com" target="_blank"> <img src="https://www.hamrohealth.com/logo.png" alt="Hamro Health" height="50" width="210" /> </a> <a href="https://www.bhojanalya.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Bhojanalya_logo.png" alt="Bhojanalya" height="50" width="210" /> </a> </p>
+<h3 align="center">💰 Support Local Businesses:</h3> <p align="center"> <a href="https://hamrohealth.com" target="_blank"> <img src="https://www.hamrohealth.com/logo.png" alt="Hamro Health" height="50" width="210" /> </a> </p>
 
 ---
 
