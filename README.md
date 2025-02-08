@@ -44,7 +44,7 @@
 </p>
 
 ---
-<h3 align="center">🎉 Support Softwarica's Event & Sports Club:</h3> <p align="center"> <a href="https://softwarica.edu.np" target="_blank"> <img src="https://www.softwarica.edu.np/images/logo.png" alt="Softwarica" height="50" width="210" /> </a> <a href="https://softwarica.edu.np/student-center/clubs/events-and-sports-club" target="_blank"> <img src="https://www.softwarica.edu.np/images/logo.png" alt="Event & Sports Club" height="50" width="210" /> </a> </p>
+<h3 align="center">🎉 Support Softwarica's Event & Sports Club:</h3> <p align="center"> <a href="https://softwarica.edu.np" target="_blank"> <img src="https://www.softwarica.edu.np/images/logo.png" alt="College" height="50" width="210" /> </a> <a href="https://softwarica.edu.np/student-center/clubs/events-and-sports-club" target="_blank"> <img src="https://www.softwarica.edu.np/images/logo.png" alt="Club" height="50" width="210" /> </a> </p>
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
