@@ -54,7 +54,7 @@
 ---
 ### 🔝 Top Contributed Repo
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabinbraBhattarai&show_icons=true&theme=dark)
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinbra-Bhattarai&show_icons=true&theme=dark)
 
 
 
