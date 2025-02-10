@@ -51,14 +51,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&locale=en&theme=matrix" alt="Rabindra-Bhattarai" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=matrix" alt="Rabindra-Bhattarai" /></p>
 
----
-### 🔝 Top Contributed Repo
-
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rabinbra-Bhattarai&show_icons=true&theme=dark)
-
-
-
-
 
 ---
 <h3 align="center">⚡ Fun GIFs:</h3>
