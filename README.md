@@ -7,7 +7,7 @@
 
 ---
 
-Code like a human, debug like a bot
+<h2 align = "center>Code like a human, debug like a bot</h2>
 
 ---
 
