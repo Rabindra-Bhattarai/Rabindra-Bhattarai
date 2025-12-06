@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align = "center>Code like a human, debug like a bot</h2>
+<h2 align= "center"> Code like a human, debug like a bot </h2>
 
 ---
 
@@ -39,7 +39,7 @@
 
 - 🩸 **Blood AID** — Android app for emergency blood donation  
 - 🏋️ **Hamro Gym** — Web platform for fitness tracking  
-- 📊 **Data Dashboards** — Real-time analytics with PostgreSQL + React  
+- 📊 **Data Dashboards** — Real-time analytics
 
 ---
 
