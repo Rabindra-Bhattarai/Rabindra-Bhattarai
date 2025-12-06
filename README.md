@@ -61,8 +61,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rabindrabhattarai"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://instagram.com/ig_raw_v"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="www.linkedin.com/in/rabindra-bhattarai-819b35283"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
 
 
