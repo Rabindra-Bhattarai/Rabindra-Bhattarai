@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Rabindra Bhattarai</h1>
-<h3 align="center">📊 Data Enthusiast | 💻 Full Stack Developer | 🚀 Tech Explorer | 🏀 Guitarist & Gamer </h3>
+<h1 align="center">👨‍💻 Rabindra Bhattarai</h1>
+<h3 align="center">Full Stack Developer | Data Explorer | Tech Futurist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
@@ -7,60 +7,70 @@
 
 ---
 
-### 🧠 About Me
-- 🔧 Engineering scalable systems with clean architecture and modular design
-- 📊 Passionate about data analytics, backend optimization, and cloud-native development
-- 🧬 Exploring intersections of software, intelligence, and automation
-- 🎯 Focused on precision, performance, and future-ready solutions
+## 🚀 About Me
+- 🔧 Crafting scalable systems with clean architecture  
+- 📊 Passionate about **data analytics, backend optimization, and cloud-native development**  
+- 🎸 Guitarist & 🏀 Basketball enthusiast  
+- 🌐 Exploring intersections of **software, intelligence, and automation**  
 
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Mode"/>
 </p>
 
 ---
 
-### 📂 Projects
-- 🩸 **Blood AID** — Android app for emergency blood donation
-- 🏋️ **Hamro Gym** — Web platform for fitness tracking and community
-- 🔍 **Data Dashboards** — Real-time analytics
-
----
-
-### 📈 GitHub Metrics
+## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra-Bhattarai&layout=compact&theme=matrix" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&theme=matrix" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=matrix" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,android,react,nodejs,python,postgresql,firebase,git,docker,aws" />
 </p>
 
 ---
 
-### 🌐 Connect
+## 📂 Featured Projects
 <p align="center">
-  <a href="https://linkedin.com/in/rabindrabhattarai" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/color/96/000000/data-configuration.png"/>
+  <img src="https://img.icons8.com/color/96/000000/android-os.png"/>
+</p>
+
+- 🩸 **Blood AID** — Android app for emergency blood donation  
+- 🏋️ **Hamro Gym** — Web platform for fitness tracking  
+- 📊 **Data Dashboards** — Real-time analytics with PostgreSQL + React  
+
+---
+
+## 📈 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra-Bhattarai&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rabindra-Bhattarai&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/rabindrabhattarai"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://instagram.com/ig_raw_v"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+</p>
+
+---
+
+## 🎥 Featured Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=HhZ6g2tK7xA" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/youtube-play.png"/>
   </a>
-  <a href="https://instagram.com/ig_raw_v" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
 </p>
 
 ---
 
-### 📁 Resources
-- 🌐 [Portfolio](https://rabindrabhattarai.com.np/)
-- 📄 [Resume](https://rabindrabhattarai.com.np/yu-cv.pdf)
-- 📬 rabindrabhattarai01@gmail.com
-
----
-
+## ⚡ Fun Fact
+**Software runs the world — and I’m building the future one commit at a time.**
