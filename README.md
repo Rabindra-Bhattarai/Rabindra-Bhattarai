@@ -1,9 +1,13 @@
 <h1 align="center">👨‍💻 Rabindra Bhattarai</h1>
-<h3 align="center">Full Stack Developer | Data Explorer | Tech Futurist</h3>
+<h3 align="center">📊 Data Enthusiast | 💻 Full Stack Developer | 🚀 Tech Explorer | 🏀 Guitarist & Gamer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+Code like a human, debug like a bot
 
 ---
 
@@ -21,7 +25,7 @@
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,android,react,nodejs,python,postgresql,firebase,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,react,nodejs,python,postgresql,firebase,git,docker,aws" />
 </p>
 
 ---
@@ -61,16 +65,4 @@
   <a href="https://instagram.com/ig_raw_v"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 
----
 
-## 🎥 Featured Video
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=HhZ6g2tK7xA" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/youtube-play.png"/>
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-**Software runs the world — and I’m building the future one commit at a time.**
