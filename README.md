@@ -23,8 +23,9 @@
 - 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-Bhattarai&theme=chartreuse-dark&bg_color=0D1117&color=00ffcc&line=00ffcc&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Matrix Coding"/>
 </p>
+
 
 
 
