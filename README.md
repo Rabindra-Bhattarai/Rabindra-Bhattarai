@@ -4,7 +4,7 @@
 <h3 align="center">💻 Full Stack Developer | 📊 Data Enthusiast | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Exploring+data+and+Ai," />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Exploring+data+and+Ai" />
 </p>
 
 ---
