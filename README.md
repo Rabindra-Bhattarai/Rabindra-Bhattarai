@@ -23,8 +23,9 @@
 - 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Analytics Dashboard"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+Explorer;🔎+Turning+Data+into+Insights;⚡+Backend+Optimization+with+Numbers" />
 </p>
+
 
 ---
 
