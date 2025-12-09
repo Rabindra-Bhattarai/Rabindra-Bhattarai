@@ -22,9 +22,11 @@
 - 🎸 Guitar riffs + 🏀 basketball courts = my creative recharge  
 - 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Fast Coding"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Terminal Coding"/>
 </p>
+
 
 ---
 
