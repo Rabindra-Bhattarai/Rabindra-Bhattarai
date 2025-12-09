@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="PASTE_GIF_LINK_HERE" width="450" alt="Debugging"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Fast Coding"/>
 </p>
 
 
