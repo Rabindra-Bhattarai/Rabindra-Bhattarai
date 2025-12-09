@@ -24,8 +24,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="500" alt="Focused Coding"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Terminal Typing"/>
 </p>
+
 
 
 ---
