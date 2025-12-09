@@ -23,10 +23,8 @@
 - 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500" alt="Data Visualization"/>
 </p>
-
-
 
 ---
 
