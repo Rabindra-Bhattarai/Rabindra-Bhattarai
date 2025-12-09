@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Matrix Coding"/>
+  <img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif" width="500" alt="Focused Coding"/>
 </p>
 
 
