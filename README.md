@@ -24,8 +24,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7Jzjzv2Y1t0dW/giphy.gif" width="500" alt="Code Scrolling"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500" alt="Coding Flow"/>
 </p>
+
 
 
 
