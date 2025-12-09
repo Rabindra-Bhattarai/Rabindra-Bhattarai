@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Exploring+data+and+AI" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
+
 
 ---
 
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,react,nodejs,python,r,flutter,postgresql,firebase,docker,git,linux,aws" />
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
+
 
 ---
 
@@ -50,7 +50,6 @@
 - 🏋️ **Hamro Gym** — Web platform for fitness tracking  
 - 📊 **Data Dashboards** — Real-time analytics  
 
-<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
 
 ---
 
@@ -73,7 +72,7 @@
   </a>
 </p>
 
-<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
+
 
 ---
 
