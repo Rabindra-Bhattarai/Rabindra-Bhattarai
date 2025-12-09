@@ -1,53 +1,58 @@
-<h1 align="center">👨‍💻 Rabindra Bhattarai</h1>
-<h3 align="center">📊 Data Enthusiast | 💻 Full Stack Developer | 🚀 Tech Explorer | 🏀 Guitarist & Gamer</h3>
+<!-- Futuristic Hacker-Style GitHub Profile -->
+
+<h1 align="center">⚡ Rabindra Bhattarai ⚡</h1>
+<h3 align="center">💻 Full Stack Developer | 📊 Data Enthusiast | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Building+systems+that+scale;Exploring+data,+cloud,+and+hacker+culture" />
 </p>
 
 ---
 
-<h2 align= "center"> Code like a human, debug like a bot </h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Coding%20Mode%20⚡-brightgreen?style=flat&logo=github" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔧 Crafting scalable systems with clean architecture  
-- 📊 Passionate about **data analytics, backend optimization, and cloud-native development**  
-- 🎸 Guitarist & 🏀 Basketball enthusiast  
-- 🌐 Exploring intersections of **software, intelligence, and automation**  
+- 🔧 Architecting **scalable systems** with clean, modular design  
+- 📊 Obsessed with **data analytics, backend optimization, and cloud-native development**  
+- 🎸 Guitar riffs + 🏀 basketball courts = my creative recharge  
+- 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Mode"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,react,nodejs,python,postgresql,firebase,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,react,nodejs,python,r,flutter,postgresql,firebase,docker,git,linux,aws" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
-  <img src="https://img.icons8.com/color/96/000000/data-configuration.png"/>
-  <img src="https://img.icons8.com/color/96/000000/android-os.png"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
+  <img src="https://img.icons8.com/color/96/data-configuration.png"/>
+  <img src="https://img.icons8.com/color/96/android-os.png"/>
 </p>
 
 - 🩸 **Blood AID** — Android app for emergency blood donation  
 - 🏋️ **Hamro Gym** — Web platform for fitness tracking  
-- 📊 **Data Dashboards** — Real-time analytics
+- 📊 **Data Dashboards** — Real-time analytics  
 
 ---
 
 ## 📈 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra-Bhattarai&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra-Bhattarai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,8 +67,15 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rabindra-bhattarai-819b35283" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rabindra.dev@example.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&width=500&lines=⚡+Hack+the+future,+one+commit+at+a+time+⚡" />
+</p>
