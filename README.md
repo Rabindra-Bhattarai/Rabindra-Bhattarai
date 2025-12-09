@@ -65,13 +65,6 @@
   <img src="https://github.com/Rabindra-Bhattarai/Rabindra-Bhattarai/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-### 🌆 GitHub Skyline
-<p align="center">
-  <a href="https://skyline.github.com/Rabindra-Bhattarai/2025" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Skyline-00ffcc?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 
 
 ---
