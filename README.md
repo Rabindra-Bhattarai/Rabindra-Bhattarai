@@ -46,16 +46,7 @@
 - 🏋️ **Hamro Gym** — Web platform for fitness tracking  
 - 📊 **Data Dashboards** — Real-time analytics  
 
----
 
-## 📈 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabindra-Bhattarai&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabindra-Bhattarai&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabindra-Bhattarai&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🏆 Achievements
 <p align="center">
