@@ -23,8 +23,9 @@
 - 🌐 Exploring the **intersection of software, intelligence, and automation**  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=600&lines=📊+Data+Analytics+Explorer;🔎+Turning+Data+into+Insights;⚡+Backend+Optimization+with+Numbers" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-Bhattarai&theme=chartreuse-dark&bg_color=0D1117&color=00ffcc&line=00ffcc&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
 
 
 ---
