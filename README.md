@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="Terminal Typing"/>
+  <img src="https://media.giphy.com/media/7Jzjzv2Y1t0dW/giphy.gif" width="500" alt="Code Scrolling"/>
 </p>
 
 
