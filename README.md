@@ -1,13 +1,13 @@
-<!-- Futuristic Hacker-Style GitHub Profile -->
+<!-- Futuristic Tech-Style GitHub Profile -->
 
 <h1 align="center">⚡ Rabindra Bhattarai ⚡</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Enthusiast | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Exploring+data+and+Ai" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Code+like+a+human,+debug+like+a+bot;Exploring+data+and+AI" />
 </p>
 
----
+<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rabindra-Bhattarai&label=Profile%20views&color=00ff00&style=flat" alt="Profile Views" />
@@ -26,12 +26,16 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
+<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
+
 ---
 
 ## 🛠️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,react,nodejs,python,r,flutter,postgresql,firebase,docker,git,linux,aws" />
 </p>
+
+<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
 
 ---
 
@@ -46,12 +50,30 @@
 - 🏋️ **Hamro Gym** — Web platform for fitness tracking  
 - 📊 **Data Dashboards** — Real-time analytics  
 
+<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
 
+---
 
-## 🏆 Achievements
+## 📈 Activity & Fun Visuals
+
+### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rabindra-Bhattarai&theme=matrix&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabindra-Bhattarai&theme=react-dark&bg_color=0D1117&color=00ff00&line=00ff00&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Rabindra-Bhattarai/Rabindra-Bhattarai/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+### 🌆 GitHub Skyline
+<p align="center">
+  <a href="https://skyline.github.com/Rabindra-Bhattarai/2025" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Skyline-00ffcc?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━</p>
 
 ---
 
@@ -60,7 +82,7 @@
   <a href="https://www.linkedin.com/in/rabindra-bhattarai-819b35283" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rabindra.dev@example.com">
+  <a href="mailto:rabindrabhattarai01@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
 </p>
@@ -68,5 +90,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&width=500&lines=⚡+Hack+the+future,+one+commit+at+a+time+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF00FF&center=true&vCenter=true&width=500&lines=✨+Building+the+future,+one+commit+at+a+time+✨" />
 </p>
