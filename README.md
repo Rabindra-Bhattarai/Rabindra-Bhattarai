@@ -1,3 +1,5 @@
+# Names' Rabindra. Basically a curious glitch in the matrix: 
+
 # 💫 About Me:
 💻 Computing student with a strong focus on software development and data-centric systems<br><br>📊 Deeply interested in data engineering, analytics, and data-driven problem solving<br><br>🐍 Hands-on experience with Python and SQL for data analysis and backend logic<br><br>⚡ Interested in real-time systems, dashboards, and analytical platforms<br><br>🧠 Continuously learning clean code, system design, and scalable data workflows<br><br>🚀 Passionate about building practical, impactful, data-backed solutions
 
