@@ -1,16 +1,12 @@
 # 💫 About Me:
 💻 Computing student with a strong focus on software development and data-centric systems<br><br>📊 Deeply interested in data engineering, analytics, and data-driven problem solving<br><br>🐍 Hands-on experience with Python and SQL for data analysis and backend logic<br><br>⚡ Interested in real-time systems, dashboards, and analytical platforms<br><br>🧠 Continuously learning clean code, system design, and scalable data workflows<br><br>🚀 Passionate about building practical, impactful, data-backed solutions
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rabindra Bhattarai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabindrabhattarai01@gmail.com) 
-
 # 💻 Tech Stack:
 
-Languages<br>
+LANGUAGES<br>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
-Hosting/SaaS<br>
+HOSTING /SAAS <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 <br>
 FRAMEWORKS, PLATFORMS & LIBRARIES<br>
