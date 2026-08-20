@@ -1,21 +1,11 @@
 # Hi, I'm Rabindra — a curious glitch in the matrix 👋
 
-**BSc Computing · Coventry University · Building toward Data Engineering & Analytics in 🇦🇺 Australia**
+**BSc Computing · Coventry University · Building toward Data Engineering & Analytics**
 
 I build data systems that turn raw numbers into decisions. Currently focused on ML, recommendation engines, and data pipelines.
 
 ---
 
-## 🗂️ Portfolio Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [fintech-customer-segmentation](https://github.com/Rabindra-Bhattarai/fintech-customer-segmentation) | Segments 1,000 customers by payment behaviour · flags fraud with DBSCAN · Silhouette 0.61 | K-Means · DBSCAN · PCA · scikit-learn |
-| [fintech-recommendation-engine](https://github.com/Rabindra-Bhattarai/fintech-recommendation-engine) | Recommends financial products · User-CF, Item-CF, Content-Based, Hybrid · Precision@3 95.5% | Collaborative Filtering · cosine similarity |
-| [movie-recommendation-engine](https://github.com/Rabindra-Bhattarai/movie-recommendation-engine) | Netflix-style recommender using SVD matrix factorisation · RMSE 0.32 · 100 films · 500 users | SVD · scipy · scikit-learn |
-| [hospital-dashboard](https://github.com/Rabindra-Bhattarai/hospital-dashboard) | University thesis — patient data dashboard | Python · SQL |
-
----
 
 ## 💻 Tech Stack
 
