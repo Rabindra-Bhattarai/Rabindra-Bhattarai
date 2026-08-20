@@ -63,9 +63,10 @@ I build data systems that turn raw numbers into decisions. Currently focused on 
 ## 🎯 Currently working toward
 
 - 🔢 Advanced SQL — LeetCode SQL 50 (window functions, CTEs)
-- 📊 Power BI — Microsoft PL-300 certification
+- 📊 Power BI /Tableau
 - ☁️ AWS Cloud Practitioner certification
-- 🇦🇺 Data Analyst / Data Engineer role in Australia
+- Data Analyst / Data Engineer role
+- AI/ML
 
 ---
 
