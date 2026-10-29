@@ -1,75 +1,42 @@
-# Hi, I'm Rabindra — a curious glitch in the matrix 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Rabindra Bhattarai, aspiring data engineer for fintech" width="100%">
+</picture>
 
-**BSc Computing · Coventry University · Building toward Data Engineering & Analytics**
+I'm **Rabindra Bhattarai**, a computing student at Coventry University learning data engineering, with a soft spot for fintech. Apps like eSewa and Khalti handle huge numbers of payments every day, and I want to build the pipelines that make sure every one of them adds up.
 
-I build data systems that turn raw numbers into decisions. Currently focused on ML, recommendation engines, and data pipelines.
+### Right now I'm
 
----
+- Building a daily payments pipeline with Airflow and dbt, including a ledger reconciliation check
+- Learning streaming with Kafka and running pipelines on AWS
+- Open to junior data engineer and analytics engineer roles
 
+### Featured: [raw-lakehouse](https://github.com/Rabindra-Bhattarai/raw-lakehouse)
 
-## 💻 Tech Stack
+Real-time change data capture on e-commerce data. Every change in MySQL lands in a queryable lakehouse within seconds, exactly once, even when the schema changes.
 
-**Data & ML**
+```mermaid
+flowchart LR
+  A[(MySQL)] -->|Debezium| B[Redpanda]
+  B --> C[Spark]
+  C --> D[(Iceberg)]
+  D --> E[Trino + dbt]
+  E --> F[Superset]
+```
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+### Other things I've built
 
-**Databases**
+- **[fintech-customer-segmentation](https://github.com/Rabindra-Bhattarai/fintech-customer-segmentation)**: groups wallet users by how they pay and flags accounts that look fraudulent
+- **[fintech-churn-prediction](https://github.com/Rabindra-Bhattarai/fintech-churn-prediction)**: predicts which bank customers are likely to leave, and suggests how to keep them
+- **[Hospital-Intelligent-System](https://github.com/Rabindra-Bhattarai/Hospital-Intelligent-System)**: a dashboard for bed occupancy, patient flow and staff allocation
+- **[Ask-My-Docs](https://github.com/Rabindra-Bhattarai/Ask-My-Docs)**: chat with your own PDFs, with the source shown for every answer
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+### Tools I use
 
-**Cloud & Tools**
+`Python` · `SQL` · `PostgreSQL` · `MySQL` · `Docker` · `pandas` · `scikit-learn` · `Streamlit` · `Power BI` · `Git`
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Learning now:** `dbt` · `Airflow` · `Spark` · `Kafka` · `AWS`
 
-**Web / General Dev**
+### Say hi
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=Rabindra-Bhattarai&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabindra-Bhattarai&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rabindra-Bhattarai&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🎯 Currently working toward
-
-- 🔢 Advanced SQL — LeetCode SQL 50 (window functions, CTEs)
-- 📊 Power BI /Tableau
-- ☁️ AWS Cloud Practitioner certification
-- Data Analyst / Data Engineer role
-- AI/ML
-
----
-
-📫 **LinkedIn:** [rabindra-bhattarai-819b35283](https://www.linkedin.com/in/rabindra-bhattarai-819b35283)
-
-[![](https://visitcount.itsvg.in/api?id=Rabindra-Bhattarai&icon=5&color=0)](https://visitcount.itsvg.in)
+I'm happy to talk about data, fintech, or learning in public. Find me on [LinkedIn](https://www.linkedin.com/in/rabindra-bhattarai-819b35283).
