@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Terminal: SELECT role, focus, building FROM rabindra returns data engineer, fintech, payments pipelines">
+  <style>
+    .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace;font-size:16px;white-space:pre}
+    .p{fill:#3fb950}.k{fill:#ff7b72}.t{fill:#e6edf3}.c{fill:#79c0ff}.g{fill:#8b949e}.s{fill:#a5d6ff}.h{fill:#7ee787;font-weight:700}
+    .l{opacity:0;animation:in .01s linear forwards}
+    .l3{animation-delay:3s}.l4{animation-delay:3.3s}.l5{animation-delay:3.5s}.l6{animation-delay:3.7s}.l7{animation-delay:3.9s}
+    .cur{opacity:0;animation:in .01s 4s forwards,blink 1s 4s steps(1) infinite}
+    @keyframes in{to{opacity:1}}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+  </style>
+  <defs>
+    <clipPath id="type"><rect x="0" y="0" width="0" height="250"><animate attributeName="width" from="0" to="900" begin="0.6s" dur="2.2s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="899" height="249" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+  <text x="450" y="27" text-anchor="middle" class="m g" style="font-size:13px">rabindra@data — psql</text>
+  <line x1="0" y1="42" x2="900" y2="42" stroke="#21262d"/>
+
+  <text x="28" y="76" class="m"><tspan class="p">life=#</tspan><tspan class="t" clip-path="url(#type)"> </tspan></text>
+  <g clip-path="url(#type)">
+    <text x="92" y="76" class="m"><tspan class="k">SELECT</tspan><tspan class="t"> role, focus, building </tspan><tspan class="k">FROM</tspan><tspan class="c"> rabindra</tspan><tspan class="t">;</tspan></text>
+  </g>
+
+  <text x="28" y="112" class="m h l l3">        role        |  focus  |       building</text>
+  <text x="28" y="134" class="m g l l4">--------------------+---------+-----------------------</text>
+  <text x="28" y="158" class="m s l l5"> data engineer      | fintech | payments pipelines</text>
+  <text x="28" y="182" class="m g l l6">(1 row)  · Coventry University · open to junior DE roles</text>
+  <text x="28" y="222" class="m l l7"><tspan class="p">life=#</tspan></text>
+  <rect x="94" y="208" width="10" height="18" fill="#e6edf3" class="cur"/>
+</svg>
