@@ -1,0 +1,23 @@
+{
+    "ci":  "baseline",
+    "dbt":  "baseline",
+    "debezium":  "baseline",
+    "docker":  "baseline",
+    "iceberg":  "baseline",
+    "jupyter":  "baseline",
+    "kafka":  "baseline",
+    "llm":  "baseline",
+    "machine-learning":  "baseline",
+    "minio":  "baseline",
+    "mysql":  "baseline",
+    "numpy":  "baseline",
+    "pandas":  "baseline",
+    "python":  "baseline",
+    "redpanda":  "baseline",
+    "scikit-learn":  "baseline",
+    "spark":  "baseline",
+    "sql":  "baseline",
+    "streamlit":  "baseline",
+    "superset":  "baseline",
+    "trino":  "baseline"
+}
