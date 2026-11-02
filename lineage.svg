@@ -28,5 +28,5 @@
 </g>
 <line x1="0" y1="708" x2="1000" y2="708" stroke="#21262d"/>
 <text x="28" y="740" class="m" font-size="12" fill="#8b949e"><tspan fill="#3fb950">$</tspan> dbt build --select +rabindra+   <tspan fill="#3fb950">16 sources &#183; 6 models &#183; 1 exposure &#183; PASS=23</tspan></text>
-<text x="972" y="740" text-anchor="end" class="m" font-size="12" fill="#8b949e">auto-refreshed 29 Oct 2026</text>
+<text x="972" y="740" text-anchor="end" class="m" font-size="12" fill="#8b949e">auto-refreshed 2 Nov 2026</text>
 </svg>
